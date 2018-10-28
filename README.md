@@ -1,2 +1,2 @@
-# todo-app
-simple todo-app in react.js
+# Ract js projects
+Simple Projects on react.js
